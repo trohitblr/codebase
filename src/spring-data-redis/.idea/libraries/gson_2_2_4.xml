@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="gson-2.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/javers-core-0.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/joda-time-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/picocontainer-2.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (2)/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java-object-diff-0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

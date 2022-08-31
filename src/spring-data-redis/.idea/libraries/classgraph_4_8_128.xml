@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="classgraph-4.8.128">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files (1)/classgraph-4.8.128.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (1)/gson-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (1)/javers-core-6.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (1)/picocontainer-2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files (1)/slf4j-api-1.7.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
